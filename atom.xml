@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wuxianshijie.github.io</id>
     <title>无限世界</title>
-    <updated>2020-08-27T13:16:03.830Z</updated>
+    <updated>2020-08-27T13:18:28.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wuxianshijie.github.io"/>
     <link rel="self" href="https://wuxianshijie.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://wuxianshijie.github.io/images/avatar.png</logo>
     <icon>https://wuxianshijie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 无限世界</rights>
+    <entry>
+        <title type="html"><![CDATA[这个是测试]]></title>
+        <id>https://wuxianshijie.github.io/post/zhe-ge-shi-ce-shi/</id>
+        <link href="https://wuxianshijie.github.io/post/zhe-ge-shi-ce-shi/">
+        </link>
+        <updated>2020-08-27T13:17:32.000Z</updated>
+        <content type="html"><![CDATA[<p>我看看效果则呢么样</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wuxianshijie.github.io/post/hello-gridea/</id>
